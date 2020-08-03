@@ -20,9 +20,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-<img align="left" alt="NestJs" width="26px" src="https://docs.nestjs.com/assets/logo-small.svg" />
-<img align="left" alt="Spring boot" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj9i0HBomVepR6AMsmIrZAuU1MOBwWiEtAtA&usqp=CAU" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="NestJs" width="26px" src="https://avatars1.githubusercontent.com/u/28507035?s=200&v=4" />
+<img align="left" alt="Spring boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 
 <br />
 <br />
