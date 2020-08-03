@@ -1,6 +1,6 @@
 ### Hi there, I'm Sandeep 👋
 
-## I'm a Developer who loves fiddling with challenging tech !
+## I'm a Developer who loves fiddling with challenging tech!
 - 🔭 I’m currently working @ Needle Innovision, Bangalore
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers more to Open Source projects
