@@ -2,7 +2,7 @@
 
 ## Problem solver, Tech savvy, Coder @Needle
 - 🔭 I’m currently working @ Needle Innovision, Bangalore
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate with other Developers more to Open Source projects
 - 💬 Ask me about Angular, Spring boot, NestJs
 - ⚡ Fun fact: I love to draw and play guitar
