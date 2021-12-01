@@ -1,4 +1,4 @@
-### Hi there, I'm Sandeep 👋
+### Hi there 👋 I'm Sandeep 
 
 ## Problem solver, Tech savvy, Coder @Needle
 - 🔭 I’m currently working @ Needle Innovision, Bangalore
