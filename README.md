@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sandeep 
 
-## Problem solver, Tech savvy, Coder @Needle
+## Problem solver, Tech savvy, Coder and a loving Dad :)
 - 🔭 I’m currently working as a Technical Architect
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate with other Developers more towards Open Source projects
